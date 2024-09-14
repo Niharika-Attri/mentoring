@@ -1,0 +1,43 @@
+body{
+  background-image: linear-gradient(to bottom right, white 50%, #748AED 30%, #A08CED 90%);
+}
+
+.base{
+  margin-left: 40vw;
+  text-align: center;
+  justify-content: center;
+  background-color: white;
+  height: 65vh;
+  width: 20vw;
+  border-radius: 20px;
+  box-shadow: black 0px 0px 30px -14px;
+}
+
+.heading{
+  padding: 5vh ;
+  color: black;
+  font-size: 23px;
+}
+
+input{
+  display: block;
+  width: 16vw;
+  /* margin: 10px 28px; */
+  border-radius: 20px;
+  padding: 2vh 1vw;
+  margin: 2.5vh .95vw;
+  background-color: white;
+  border: 0px;
+  box-shadow: black 0px 0px 10px -4px;
+  color: black;
+}
+
+.login-button{
+  font-family: 'Roboto', sans-serif;
+  display: block;
+  margin: 5vh 7vw;
+  border-radius: 20px;
+  background-color: #B58DED;
+  box-shadow: #B58DED 0px 10px 10px -5px;
+}
+
