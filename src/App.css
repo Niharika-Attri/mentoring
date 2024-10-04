@@ -1,4 +1,4 @@
-body{
+/* body{
   background-image: linear-gradient(to bottom right, white 50%, #748AED 30%, #A08CED 90%);
 }
 
@@ -22,7 +22,7 @@ body{
 input{
   display: block;
   width: 16vw;
-  /* margin: 10px 28px; */
+  margin: 10px 28px;
   border-radius: 20px;
   padding: 2vh 1vw;
   margin: 2.5vh .95vw;
@@ -40,4 +40,4 @@ input{
   background-color: #B58DED;
   box-shadow: #B58DED 0px 10px 10px -5px;
 }
-
+ */
